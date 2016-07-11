@@ -5,9 +5,9 @@ def map_size
   "The map is #{21 * 25} square inches"
 end
 
-# Now you give it a shot! It takes about 156 seconds to go between stops and you'll be taking the train for 3 stops. Write a method that returns how long your trip will take. 
+# Now you give it a shot! It takes about 156 seconds to go between stops and you'll be taking the train for 3 stops. Write a method that returns how long your trip will take.
 def trip_length
-	# write your code here
+	"Your trip will take #{156*3}."
 end
 
 # While you are waiting for the train you decide to play a little dice. Create a method called roll that returns a random number between 1 and 6 (feel free to google "how to generate a random number in ruby").
@@ -16,7 +16,7 @@ end
 
 
 
-# The train arrives and you hop on. Guess what time it is? It's showtime! There are 23 people on the train and each person gives the dancers 1.5 dollars. Write a method called pay_dancers that returns how much money they made. 
+# The train arrives and you hop on. Guess what time it is? It's showtime! There are 23 people on the train and each person gives the dancers 1.5 dollars. Write a method called pay_dancers that returns how much money they made.
 
 
 # There is one grumpy lady on the train that doesn't like the dancing though. Write a method called stop_dancing that returns a message to the dancers in all caps.
